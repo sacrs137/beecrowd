@@ -3,6 +3,7 @@ For more information about the questions: [beecrowd](https://www.beecrowd.com.br
 
 [ongoing]
 
+<br>
 
 ## Algumas questões do beecrowd (antigo UriOnlineJuge) feitas em PostgreSQL
 
