@@ -1,5 +1,5 @@
 # Some beecrowd (old UriOnlineJuge) solutions.
-For more information about the problems: [beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9)
+For more information about the problems: [beecrowd](https://www.beecrowd.com.br/judge/en)
 
 [ongoing]
 
@@ -7,6 +7,6 @@ For more information about the problems: [beecrowd](https://www.beecrowd.com.br/
 
 ## Algumas questões do beecrowd (antigo UriOnlineJuge).
 
-Para mais informações sobre as questões: [beecrowd](https://www.beecrowd.com.br/judge/pt/problems/index/9)
+Para mais informações sobre as questões: [beecrowd](https://www.beecrowd.com.br/judge/pt)
 
 [em progresso]
