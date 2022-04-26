@@ -1,5 +1,5 @@
 # Some beecrowd (old UriOnlineJuge) solutions written in Python 3
-For more information about the questions: [beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/1)
+For more information about the problems: [beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/1)
 
 [ongoing]
 
