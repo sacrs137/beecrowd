@@ -1,5 +1,5 @@
 # Some beecrowd (old UriOnlineJuge) solutions written in PostgreSQL
-For more information about the questions: [beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9)
+For more information about the problems: [beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9)
 
 [ongoing]
 
