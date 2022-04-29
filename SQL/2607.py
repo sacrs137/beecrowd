@@ -1,2 +1,2 @@
 SELECT city FROM providers
-ORDER BY city asc
+ORDER BY city asc;
